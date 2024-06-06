@@ -21,7 +21,7 @@ repository               : "itharindu/itharindu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_tm.png"
+  avatar           : "profile_tm.jpg"
   name             : "Tharindu Madusanka"
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning Enthusiast"
